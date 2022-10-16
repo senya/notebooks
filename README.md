@@ -10,8 +10,14 @@
 
 [NumPy flowers image - скачать](https://raw.githubusercontent.com/senya/notebooks/master/flowers.JPG) (щелкаем правой кнопкой и сохраняем)
 
-[Pandas - скачать](https://raw.githubusercontent.com/senya/notebooks/master/lpr6.ipynb) (щелкаем правой кнопкой и сохраняем)
+[Pandas1 - скачать](https://raw.githubusercontent.com/senya/notebooks/master/lpr6.ipynb) (щелкаем правой кнопкой и сохраняем)
 
-[Pandas - просмотр](https://github.com/senya/notebooks/blob/master/lpr6.ipynb)
+[Pandas1 - просмотр](https://github.com/senya/notebooks/blob/master/lpr6.ipynb)
 
-[Pandas telecom_churn.csv - скачать](https://raw.githubusercontent.com/senya/notebooks/master/telecom_churn.csv) (щелкаем правой кнопкой и сохраняем)
+[Pandas1 telecom_churn.csv - скачать](https://raw.githubusercontent.com/senya/notebooks/master/telecom_churn.csv) (щелкаем правой кнопкой и сохраняем)
+
+[Pandas2 - скачать](https://raw.githubusercontent.com/senya/notebooks/master/lpr7.ipynb) (щелкаем правой кнопкой и сохраняем)
+
+[Pandas2 - просмотр](https://github.com/senya/notebooks/blob/master/lpr7.ipynb)
+
+[Pandas2 telecom_train.csv - скачать](https://raw.githubusercontent.com/senya/notebooks/master/train.csv) (щелкаем правой кнопкой и сохраняем)
